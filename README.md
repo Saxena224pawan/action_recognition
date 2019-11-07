@@ -9,5 +9,16 @@ The ongoing innovations in convolutional neural networks (CNNs) alongside the pl
 
 ## Working
 
-We use [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose); for pose Estimation and Deepsort alogorithm for human tracking. We use Action recognition with DNN for each person based on pose estimated by OpenPose.
+We use [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose); for pose Estimation and [Deepsort](https://github.com/nwojke/deep_sortv); for human tracking. We use Action recognition with DNN for each person based on pose estimated by OpenPose.
 
+## Requirements
+
+- Python 3.5 or greater
+- OpenCv
+- pathlab
+- tensorflow and Keras
+
+## Results
+
+<p align="center">
+    <img src="screenshot.jpg", width="540">
