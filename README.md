@@ -21,4 +21,4 @@ We use [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose); for
 ## Results
 
 <p align="center">
-    <img src="screenshot.jpg", width="540">
+    <img src="screenshot.jpeg", width="540">
